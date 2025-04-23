@@ -47,3 +47,5 @@ Safe has park kind arch benefit.
 Safe has park kind arch marry.
 
 Safe has park kind arch land.
+
+Safe has major.
