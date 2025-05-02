@@ -50,4 +50,6 @@ Safe has park kind arch land.
 
 Safe has park mark.
 
+Safe has park cross.
+
 Safe has major.
